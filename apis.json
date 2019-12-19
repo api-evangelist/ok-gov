@@ -1,0 +1,47 @@
+{
+    "name": "OK.gov",
+    "description": "Welcome to Oklahoma's Official Web Site",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/755-ok-gov.jpg",
+    "tags": [
+        "api provider",
+        "data",
+        "data provider",
+        "have api",
+        "oklahoma",
+        "state government"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/ok-gov\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "OK.gov",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/755-ok-gov.jpg",
+            "humanURL": "https:\/\/data.ok.gov\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": []
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/data.ok.gov\/resource\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/wagoner-county-oklahoma"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/okgov"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/data.ok.gov\/"
+        }
+    ]
+}
